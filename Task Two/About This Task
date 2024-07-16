@@ -1,1 +1,32 @@
+Customer Retention Dashboard Summary
+The customer retention dashboard provides an in-depth analysis of customer churn, demographic insights, and service usage patterns. Here’s a summary of the key points:
 
+The dashboard reveals a churn rate of 26.54%, indicating the percentage of customers who have discontinued their service. It highlights the demographic distribution of customers, showing an almost equal split between males (3,560) and females (3,490). Additionally, it provides insights into the number of senior citizens, partners, and dependents among the customer base, with 35.79% being senior citizens, 17.44% having partners, and a smaller percentage having dependents.
+
+Customer At Risk:
+Total at Risk: 2,345 customers, with 1,869 being at high risk and 476 at moderate risk.
+Payment Methods:
+Most Common Payment Methods: Electronic check (2,400 customers), mailed check (1,600 customers), bank transfer (1,500 customers), and credit card (1,500 customers).
+Paperless Billing: Adopted by 4,170 customers, while 2,870 customers prefer traditional billing methods.
+Contract Types:
+Contract Distribution: Majority of customers are on month-to-month contracts, followed by one-year and two-year contracts.
+Monthly Charges: The total monthly charges amount to 456.12K, with an average monthly charge of 74.44.
+Total Charges: The overall total charges reach 16.06M, with an average of 1,531.80.
+Service Usage:
+Phone Service: Used by 90.90% of customers.
+Streaming Services: Streaming movies (43.77%) and streaming TV (43.55%) are popular among customers.
+Technical Support: Only 16.59% of customers use tech support services.
+Other Services: Device protection (29.16%), online backup (27.98%), online security (15.78%), and multiple lines (45.48%).
+Customer Support Tickets:
+Admin Tickets: 3,632 tickets logged.
+Tech Tickets: 2,955 tickets logged.
+Internet Services:
+Distribution: 3,100 customers use fiber optic, 2,420 use DSL, and 1,530 do not use internet services provided by the company.
+Customer Loyalty:
+Tenure Distribution:
+Less than 1 year: Significant number of customers.
+Less than 2 years: Decline in customer numbers.
+Up to 6 years: Progressive decrease in customer numbers.
+This dashboard helps identify key factors contributing to customer churn and provides insights into customer demographics, service usage
+, and support needs. This information can be used to devise strategies to improve customer retention, such as enhancing service offerings,
+optimizing support, and targeting high-risk customers with retention efforts.
