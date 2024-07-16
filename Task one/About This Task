@@ -1,1 +1,85 @@
+Call Center Dashboard Summary
+The call center dashboard provides a comprehensive overview of key performance metrics and agent performance. Here's a summary to help you understand the data and insights presented:
 
+Key Metrics:
+Average Speed (Seconds): The average time taken to handle a call is 67.52 seconds.
+Average Satisfaction: The overall customer satisfaction rating is 3.40 out of 5.
+Call Resolution:
+Total Resolved Calls: Out of the total calls, 4,054 were resolved.
+Total Unresolved Calls: 946 calls were not resolved.
+Performance by Agent:
+Becky:
+Answered Yes: 517 calls
+Answered No: 114 calls
+Average Satisfaction: 3.37
+Average Speed: 65.33 seconds
+Dan:
+Answered Yes: 523 calls
+Answered No: 110 calls
+Average Satisfaction: 3.45
+Average Speed: 67.28 seconds
+Diane:
+Answered Yes: 501 calls
+Answered No: 132 calls
+Average Satisfaction: 3.41
+Average Speed: 66.27 seconds
+Greg:
+Answered Yes: 502 calls
+Answered No: 122 calls
+Average Satisfaction: 3.40
+Average Speed: 68.44 seconds
+Jim:
+Answered Yes: 536 calls
+Answered No: 130 calls
+Average Satisfaction: 3.39
+Average Speed: 66.34 seconds
+Joe:
+Answered Yes: 484 calls
+Answered No: 109 calls
+Average Satisfaction: 3.33
+Average Speed: 70.99 seconds
+Martha:
+Answered Yes: 514 calls
+Answered No: 124 calls
+Average Satisfaction: 3.47
+Average Speed: 69.49 seconds
+Stewart:
+Answered Yes: 477 calls
+Answered No: 105 calls
+Average Satisfaction: 3.40
+Average Speed: 66.18 seconds
+Call Trends by Month:
+January:
+Total Calls: 1,772 (317 unresolved, 1,455 resolved)
+February:
+Total Calls: 1,616 (318 unresolved, 1,298 resolved)
+March:
+Total Calls: 1,612 (311 unresolved, 1,301 resolved)
+Performance by Topic:
+Admin Support:
+Resolved: 723 calls
+Unresolved: 253 calls
+Average Satisfaction: 3.43
+Average Speed: 67.25 seconds
+Contract Related:
+Resolved: 709 calls
+Unresolved: 267 calls
+Average Satisfaction: 3.38
+Average Speed: 67.16 seconds
+Payment Related:
+Resolved: 729 calls
+Unresolved: 278 calls
+Average Satisfaction: 3.40
+Average Speed: 68.20 seconds
+Streaming:
+Resolved: 749 calls
+Unresolved: 273 calls
+Average Satisfaction: 3.40
+Average Speed: 66.89 seconds
+Technical Support:
+Resolved: 736 calls
+Unresolved: 283 calls
+Average Satisfaction: 3.41
+Average Speed: 68.11 seconds
+Summary:
+The dashboard highlights the overall efficiency and satisfaction levels of the call center. Key areas of focus include reducing average handling time and improving customer satisfaction. Individual agent performance varies, with some agents achieving higher satisfaction scores and faster handling times. Addressing unresolved calls and optimizing performance across all agents and call topics can further enhance the call center's effectiveness.
